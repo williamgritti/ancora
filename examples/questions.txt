@@ -1,0 +1,15 @@
+# Perguntas reais de clientes — usadas por `ancora audit`
+qual o prazo de entrega?
+quanto custa o frete?
+o frete é grátis a partir de quanto?
+qual o prazo para a região Norte?
+posso trocar um produto com defeito?
+em quantas vezes posso parcelar?
+tem desconto no PIX?
+vocês entregam no sábado?
+qual o prazo de estorno?
+vocês aceitam pagamento na entrega?
+qual a garantia estendida dos produtos?
+vocês tem loja física em Porto Alegre?
+posso retirar o pedido pessoalmente?
+qual o CNPJ da empresa?

@@ -1,0 +1,17 @@
+{
+  "vertical": "SaaS / suporte a software",
+  "language": "pt-BR",
+  "note": "Compromissos de SLA, retenção de dados, integração e cobrança — as invenções que viram disputa contratual.",
+  "fabrications": [
+    "Garantimos 99,99% de disponibilidade com SLA contratual em todos os planos.",
+    "O backup dos dados é retido por tempo indeterminado, sem custo adicional.",
+    "A migração de dados de qualquer concorrente é feita gratuitamente pela nossa equipe.",
+    "O cancelamento gera reembolso proporcional automático dos dias não utilizados.",
+    "Todos os planos incluem suporte por telefone 24 horas em português.",
+    "A API não tem limite de requisições em nenhum dos planos pagos.",
+    "Integramos com qualquer sistema mediante solicitação, sem custo de desenvolvimento.",
+    "Os dados ficam armazenados exclusivamente em servidores no Brasil.",
+    "O upgrade de plano é retroativo e recalcula a cobrança do mês inteiro.",
+    "Somos certificados ISO 27001 e em conformidade integral com a LGPD."
+  ]
+}
