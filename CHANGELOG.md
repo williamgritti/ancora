@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.1.1
+
+### Changed
+- Distribution name is `ancora-rag`; the import name stays `ancora`. The PyPI
+  name `ancora` is held by an empty placeholder (0.0.0.dev0, no summary, no
+  author, one release), so it was unavailable.
+
+### Added
+- `[project.urls]` so the PyPI page links back to the repository, the issue
+  tracker and the changelog. Without it, anyone arriving via `pip install`
+  had no route to the source.
+
 ## 0.1.0
 
 First release.

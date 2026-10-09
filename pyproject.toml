@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ancora-rag"
-version = "0.1.0"
+version = "0.1.1"
 description = "Grounded answers, or an honest escalation. A dependency-free hallucination gate for RAG chatbots."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -26,6 +26,12 @@ classifiers = [
     "Typing :: Typed",
 ]
 dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/williamgritti/ancora"
+Repository = "https://github.com/williamgritti/ancora"
+Issues = "https://github.com/williamgritti/ancora/issues"
+Changelog = "https://github.com/williamgritti/ancora/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 openai = ["openai>=1.0"]

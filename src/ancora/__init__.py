@@ -32,7 +32,7 @@ from .providers import (
 from .retrieval import BM25Index, Embedder, Retriever
 from .types import Action, Answer, Chunk, ClaimCheck, Document, ScoredChunk, Verdict
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "Ancora",
