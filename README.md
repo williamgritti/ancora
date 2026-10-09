@@ -50,14 +50,21 @@ Lexical support was high. The number was wrong. **The number decides.**
 ## Install
 
 ```bash
-pip install ancora
+pip install ancora-rag
+```
+
+The distribution is `ancora-rag` because `ancora` was already taken on PyPI by an
+empty placeholder. The import name is unchanged:
+
+```python
+import ancora
 ```
 
 No transitive dependencies. The core has no imports outside the standard library.
 LLM SDKs are optional extras, imported lazily:
 
 ```bash
-pip install "ancora[anthropic]"   # or [openai]
+pip install "ancora-rag[anthropic]"   # or [openai]
 ```
 
 ## Quickstart

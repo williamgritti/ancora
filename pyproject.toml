@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ancora"
+name = "ancora-rag"
 version = "0.1.0"
 description = "Grounded answers, or an honest escalation. A dependency-free hallucination gate for RAG chatbots."
 readme = "README.md"

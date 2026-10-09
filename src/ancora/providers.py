@@ -107,7 +107,7 @@ class OpenAIProvider:
                 from openai import OpenAI  # type: ignore[import-not-found]
             except ImportError as exc:  # pragma: no cover - env dependent
                 raise ImportError(
-                    "OpenAIProvider needs the openai package: pip install 'ancora[openai]'"
+                    "OpenAIProvider needs the openai package: pip install 'ancora-rag[openai]'"
                 ) from exc
             client = OpenAI()
         self.client = client
@@ -135,7 +135,7 @@ class AnthropicProvider:
                 import anthropic  # type: ignore[import-not-found]
             except ImportError as exc:  # pragma: no cover - env dependent
                 raise ImportError(
-                    "AnthropicProvider needs the anthropic package: pip install 'ancora[anthropic]'"
+                    "AnthropicProvider needs the anthropic package: pip install 'ancora-rag[anthropic]'"
                 ) from exc
             client = anthropic.Anthropic()
         self.client = client
